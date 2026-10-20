@@ -59,43 +59,14 @@ I'm a Computer Science graduate from the **Arab Open University (Egypt)**, focus
 
 | Organization | Role / Program | Focus |
 |---|---|---|
-| **GBG** | Backend ASP.NET Intern | Backend development with ASP.NET |
-| **GBG** | Power Apps Trainee | Business applications and Power Platform |
+| **Nefertari Tiba Manzalawi** | Software Engineer | Software development and digital solutions |
+| **Global Brands Group** | Backend ASP.NET Intern | Backend development with ASP.NET |
+| **Global Brands Group** | Power Apps Trainee | Business applications and Power Platform |
 | **Information Technology Institute (ITI)** | .NET Trainee — Summer Code Camp | .NET development fundamentals |
 | **Digital Egypt Pioneers Initiative (DEPI)** | AI & Data Science Trainee | AI and data science foundations |
 | **Orange Digital Center / DEPI** | Machine Learning Training | Machine learning fundamentals |
 
-## 🚀 Selected Projects
 
-### Ludic — Interactive Learning Platform
-A web platform concept that helps children learn through educational games and interactive activities, with ideas such as points, levels, leaderboards, and parent-facing progress insights.
-
-**Focus:** Educational technology · Gamification · Web development
-
-<!-- Add the repository link when the project repository is ready to share -->
-[Project repository](YOUR_LUDIC_REPOSITORY_URL)
-
-### Forascom — Digital Services
-A collaborative initiative focused on delivering digital solutions, including web development, automation, Power Platform, and AI-related services.
-
-**Focus:** Web development · Workflow automation · Business solutions
-
-[Project repository](https://github.com/Faraga169/Forascom)
-
-## 📚 Currently Improving
-
-- ASP.NET Core Web APIs and RESTful API design
-- SQL Server, database internals, and query optimization
-- SOLID, design patterns, and clean application architecture
-- System design and building maintainable backend applications
-
-## 🎓 Education
-
-**B.Sc. in Computer Science**  
-Arab Open University — Egypt  
-Graduated in 2025 · GPA: 3.09 / 4.00 · Very Good
-
----
 
 <div align="center">
 
