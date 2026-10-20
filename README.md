@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = r'''<div align="center">
+<div align="center">
 
 # Hi, I'm Abdelrahman Fathi 👋
 
@@ -75,8 +73,3 @@ I'm a Computer Science graduate from the **Arab Open University (Egypt)**, focus
 *Always learning. Always building. Always improving.*
 
 </div>
-'''
-
-path = Path("/mnt/data/README_GitHub_Profile.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created: {path}")
