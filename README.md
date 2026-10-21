@@ -53,6 +53,7 @@ I'm a Computer Science graduate from the **Arab Open University (Egypt)**, focus
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
+<!--
 ## 💼 Experience & Training
 
 | Organization | Role / Program | Focus |
@@ -63,7 +64,7 @@ I'm a Computer Science graduate from the **Arab Open University (Egypt)**, focus
 | **Information Technology Institute (ITI)** | .NET Trainee — Summer Code Camp | .NET development fundamentals |
 | **Digital Egypt Pioneers Initiative (DEPI)** | AI & Data Science Trainee | AI and data science foundations |
 | **Orange Digital Center / DEPI** | Machine Learning Training | Machine learning fundamentals |
-
+-->
 
 
 <div align="center">
