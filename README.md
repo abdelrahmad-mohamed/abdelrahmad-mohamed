@@ -1,18 +1,20 @@
 <div align="center">
 
-# Hi, I'm Abdelrahman Fathi 👋
+# Hi, I'm Abdelrahman Mohamed 👋
 
-### Software Engineer | Backend .NET Developer
+### Software Engineer | .NET Backend Developer
 
-I build practical software solutions and enjoy understanding how systems work — from databases and APIs to application architecture.
+Focused on building reliable backend systems, designing clean APIs, and working with databases to solve real-world problems.
 
-<p>
+<p align="center">
   <a href="mailto:2abdelrhman00mohamed4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.icons8.com/color/96/000000/gmail.png" width="42" alt="Email" />
   </a>
-  <!-- Replace YOUR_LINKEDIN_URL with your LinkedIn profile URL -->
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/abdelrhman-mohamed-fathi/">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="42" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/981345155162468362">
+    <img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="42" alt="Discord" />
   </a>
 </p>
 
@@ -74,3 +76,5 @@ I'm a Computer Science graduate from the **Arab Open University (Egypt)**, focus
 *Always learning. Always building. Always improving.*
 
 </div>
+
+انا عايز استخدم اcord.com/users/981345155162468362
