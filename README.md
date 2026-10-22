@@ -21,20 +21,18 @@ Focused on building reliable backend systems, designing clean APIs, and working 
 </div>
 
 ---
-
-## 👨‍💻 About Me
+## About Me
 
 I'm a Software Engineer who enjoys building software, solving problems, and continuously learning new technologies.
 
-- 🧱 I'm continuously improving my knowledge of **Web APIs, SOLID principles, design patterns, and system design**.
-- 🗃️ I enjoy exploring how databases work under the hood, including **query execution and optimization**.
-- 🤝 I've worked across **software development, Power Platform, and collaborative projects**.
-- 🚀 My goal is to design, build, and maintain **reliable, well-structured software**.
+- I'm continuously improving my knowledge of **Web APIs, SOLID principles, design patterns, and system design**.
+- I enjoy exploring how databases work under the hood, including **query execution and optimization**.
+- I've worked across **software development, Power Platform, and collaborative projects**.
+- My goal is to design, build, and maintain **reliable, well-structured software**.
 
 <br>
 
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend & Databases
 <p>
@@ -59,13 +57,11 @@ I'm a Software Engineer who enjoys building software, solving problems, and cont
 
 <br>
 
-
-## 💼 Experience & Training
+## Experience & Training
 
 <p align="center">
   <img src="./experience-terminal.svg" width="100%" alt="My professional experience and training displayed in a terminal interface" />
 </p>
-
 
 <div align="center">
 
