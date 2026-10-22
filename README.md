@@ -55,18 +55,11 @@ I'm a Computer Science graduate from the **Arab Open University (Egypt)**, focus
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<!--
 ## 💼 Experience & Training
 
-| Organization | Role / Program | Focus |
-|---|---|---|
-| **Nefertari Tiba Manzalawi** | Software Engineer | Software development and digital solutions |
-| **Global Brands Group** | Backend ASP.NET Intern | Backend development with ASP.NET |
-| **Global Brands Group** | Power Apps Trainee | Business applications and Power Platform |
-| **Information Technology Institute (ITI)** | .NET Trainee — Summer Code Camp | .NET development fundamentals |
-| **Digital Egypt Pioneers Initiative (DEPI)** | AI & Data Science Trainee | AI and data science foundations |
-| **Orange Digital Center / DEPI** | Machine Learning Training | Machine learning fundamentals |
--->
+<p align="center">
+  <img src="./experience-terminal.svg" width="100%" alt="My professional experience and training displayed in a terminal interface" />
+</p>
 
 
 <div align="center">
@@ -76,5 +69,3 @@ I'm a Computer Science graduate from the **Arab Open University (Egypt)**, focus
 *Always learning. Always building. Always improving.*
 
 </div>
-
-انا عايز استخدم اcord.com/users/981345155162468362
