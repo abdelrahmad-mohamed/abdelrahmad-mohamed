@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">Abdelrahman's experience terminal</title>
+  <desc id="desc">A dark terminal-style career log showing software engineering experience and training.</desc>
+  <defs>
+    <clipPath id="window"><rect x="1" y="1" width="898" height="598" rx="14"/></clipPath>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+      .muted { fill: #8b949e; }
+      .white { fill: #e6edf3; }
+      .blue { fill: #79c0ff; }
+      .green { fill: #7ee787; }
+      .purple { fill: #d2a8ff; }
+      .small { font-size: 14px; }
+      .body { font-size: 16px; }
+      .heading { font-size: 15px; font-weight: 700; letter-spacing: .4px; }
+      .cursor { animation: blink 1s steps(2, start) infinite; }
+      .line1 { animation: reveal .45s ease-out both; }
+      .line2 { animation: reveal .45s .25s ease-out both; }
+      .line3 { animation: reveal .45s .5s ease-out both; }
+      .line4 { animation: reveal .45s .75s ease-out both; }
+      .line5 { animation: reveal .45s 1s ease-out both; }
+      @keyframes blink { to { visibility: hidden; } }
+      @keyframes reveal { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+      @media (prefers-reduced-motion: reduce) {
+        .cursor { animation: none; }
+        .line1,.line2,.line3,.line4,.line5 { animation: none; }
+      }
+    </style>
+  </defs>
+  <g clip-path="url(#window)">
+    <rect width="900" height="600" fill="#0d1117"/>
+    <rect width="900" height="48" fill="#161b22"/>
+    <circle cx="24" cy="24" r="6" fill="#ff5f57"/>
+    <circle cx="45" cy="24" r="6" fill="#febc2e"/>
+    <circle cx="66" cy="24" r="6" fill="#28c840"/>
+    <text x="450" y="29" text-anchor="middle" class="mono small muted">experience.log — abdelrahman@dev</text>
+    <path d="M0 48H900" stroke="#30363d"/>
+    <text x="32" y="82" class="mono small muted">abdelrahman@dev:~/career $</text>
+    <g class="line1">
+      <text x="32" y="116" class="mono body blue">career --experience</text>
+      <text x="32" y="151" class="mono heading green">[CURRENT ROLE]</text>
+      <text x="32" y="179" class="mono body white" font-weight="700">Software Engineer</text>
+      <text x="32" y="202" class="mono body muted">Nefertari Tiba Manzalawi (NTM)</text>
+      <path d="M32 222H868" stroke="#30363d"/>
+    </g>
+    <g class="line2">
+      <text x="32" y="253" class="mono heading purple">[INTERNSHIP]</text>
+      <text x="32" y="281" class="mono body white" font-weight="700">Backend ASP.NET Intern</text>
+      <text x="32" y="304" class="mono body muted">Global Brands Group</text>
+      <path d="M32 324H868" stroke="#30363d"/>
+    </g>
+    <g class="line3">
+      <text x="32" y="355" class="mono heading purple">[TRAINEE ROLE]</text>
+      <text x="32" y="383" class="mono body white" font-weight="700">Power Apps Trainee</text>
+      <text x="32" y="406" class="mono body muted">Global Brands Group</text>
+      <path d="M32 426H868" stroke="#30363d"/>
+    </g>
+    <g class="line4">
+      <text x="32" y="457" class="mono body blue">career --training</text>
+      <text x="32" y="487" class="mono body white">ITI <tspan class="muted">/</tspan> .NET Development</text>
+      <text x="32" y="513" class="mono body white">DEPI <tspan class="muted">/</tspan> AI &amp; Data Science</text>
+      <text x="32" y="539" class="mono body white">Orange Digital Center / DEPI <tspan class="muted">/</tspan> Machine Learning</text>
+    </g>
+    <g class="line5">
+      <text x="32" y="574" class="mono small green">status: always_learning</text>
+      <rect x="254" y="560" width="9" height="17" rx="1" fill="#79c0ff" class="cursor"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="898" height="598" rx="14" fill="none" stroke="#30363d" stroke-width="2"/>
+</svg>
