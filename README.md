@@ -24,13 +24,15 @@ Focused on building reliable backend systems, designing clean APIs, and working 
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science graduate from the **Arab Open University (Egypt)**, focused on **backend development with C# and ASP.NET Core**.
+I'm a Software Engineer who enjoys building software, solving problems, and continuously learning new technologies.
 
-- 🔧 I work with **C#, .NET, SQL Server, Entity Framework Core, and LINQ**.
-- 🧱 I'm strengthening my knowledge of **Web APIs, SOLID principles, design patterns, and system design**.
-- 🗃️ I enjoy learning how databases work under the hood, including query execution and optimization.
-- 🤝 I've worked across software development, Power Platform, and collaborative project work.
-- 🚀 My goal is to become a stronger engineer who can design, build, and maintain reliable software — not just make it work.
+- 🧱 I'm continuously improving my knowledge of **Web APIs, SOLID principles, design patterns, and system design**.
+- 🗃️ I enjoy exploring how databases work under the hood, including **query execution and optimization**.
+- 🤝 I've worked across **software development, Power Platform, and collaborative projects**.
+- 🚀 My goal is to design, build, and maintain **reliable, well-structured software**.
+
+<br>
+
 
 ## 🛠️ Tech Stack
 
@@ -54,6 +56,9 @@ I'm a Computer Science graduate from the **Arab Open University (Egypt)**, focus
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
+
+<br>
+
 
 ## 💼 Experience & Training
 
